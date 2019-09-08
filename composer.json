@@ -1,0 +1,21 @@
+{
+  "name": "likemusic/yandex-fleet-taxi-client-contracts",
+  "description": "Contracts for client for https://fleet.taxi.yandex.ru/",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Valerij Ivashchenko",
+      "email": "likemusicdev@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Likemusic\\YandexFleetTaxiClient\\Contracts\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.3"
+  }
+}
