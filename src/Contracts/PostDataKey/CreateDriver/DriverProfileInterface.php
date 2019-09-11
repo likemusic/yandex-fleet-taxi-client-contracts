@@ -13,14 +13,14 @@ interface DriverProfileInterface
     const EMAIL = 'email';
     const FIRE_DATE = 'fire_date';
     const FIRST_NAME = 'first_name';
-    const HIRE_DATE = 'hire_date';
     const LAST_NAME = 'last_name';
     const MIDDLE_NAME = 'middle_name';
     const PHONES = 'phones';
     const PROVIDERS = 'providers';
     const WORK_RULE_ID = 'work_rule_id';
     const WORK_STATUS = 'work_status';
-
+    const HIRE_DATE = 'hire_date';
+    const BALANCE_DENY_ONLYCARD = 'balance_deny_onlycard';
     const BANK_ACCOUNTS = 'bank_accounts';
     const EMERGENCY_PERSON_CONTACTS = 'emergency_person_contacts';
     const IDENTIFICATIONS = 'identifications';
