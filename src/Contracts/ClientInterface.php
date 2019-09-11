@@ -10,12 +10,12 @@ interface ClientInterface
     public function changeLanguage(string $languageCode): array;
     public function getDrivers(
         string $parkId,
+        string $text = '',
         int $limit = 25,
         int $page = 1,
         array $carAmenities = [],
         array $carCategories = [],
         $status = null,
-        string $text = '',
         int $workRuleId = null,
         string $workStatusId = 'working',
         array $sort = [
