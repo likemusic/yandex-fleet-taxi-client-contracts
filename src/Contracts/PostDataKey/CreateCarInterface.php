@@ -5,19 +5,19 @@ namespace Likemusic\YandexFleetTaxiClient\Contracts\PostDataKey;
 interface CreateCarInterface
 {
     //used
-    const BOOSTER_COUNT='booster_count';
-    const BRAND='brand';
-    const CALLSIGN='callsign';
-    const CARGO_LOADERS='cargo_loaders';
-    const COLOR='color';
-    const MODEL='model';
-    const NUMBER='number';
-    const PARK_ID='park_id';
-    const REGISTRATION_CERT='registration_cert';
-    const STATUS='status';
-    const TRANSMISSION='transmission';
-    const VIN='vin';
-    const YEAR='year';
+    const BOOSTER_COUNT = 'booster_count';
+    const BRAND = 'brand';
+    const CALLSIGN = 'callsign';
+    const CARGO_LOADERS = 'cargo_loaders';
+    const COLOR = 'color';
+    const MODEL = 'model';
+    const NUMBER = 'number';
+    const PARK_ID = 'park_id';
+    const REGISTRATION_CERT = 'registration_cert';
+    const STATUS = 'status';
+    const TRANSMISSION = 'transmission';
+    const VIN = 'vin';
+    const YEAR = 'year';
 
     // skipped
 //    const AMENITIES='amenities';
