@@ -18,9 +18,9 @@ interface CreateCarInterface
     const TRANSMISSION = 'transmission';
     const VIN = 'vin';
     const YEAR = 'year';
+    const AMENITIES='amenities';
 
     // skipped
-//    const AMENITIES='amenities';
 //    const BODY_NUMBER='body_number';
 //    const CARGO_HOLD_DIMENSIONS='cargo_hold_dimensions';
 //    const CARRIER_PERMIT_OWNER_ID='carrier_permit_owner_id';
