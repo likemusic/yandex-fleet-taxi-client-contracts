@@ -31,4 +31,5 @@ interface ClientInterface
     public function getVehiclesCardModels(string $brandName);
     public function storeVehicles(array $postData);
     public function bindDriverWithCar(string $parkId, string $driverId, string $carId);
+    public function getDriversCardData(string $parkId): array;
 }
