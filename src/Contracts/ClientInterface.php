@@ -29,7 +29,7 @@ interface ClientInterface
     public function createDriver(string $parkId, array $postData): string;
     public function getVehiclesCardData(string $parkId);
     public function getVehiclesCardModels(string $brandName);
-    public function storeVehicles(array $postData);
+    public function createCar(array $postData);
     public function bindDriverWithCar(string $parkId, string $driverId, string $carId);
     public function getDriversCardData(string $parkId): array;
 }
