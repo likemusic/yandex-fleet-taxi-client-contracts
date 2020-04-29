@@ -1,6 +1,6 @@
 <?php
 
-namespace Likemusic\YandexFleetTaxiClient\Contracts\PostDataKey\CreateDriver\DriverProfile;
+namespace YandexFleetTaxi\Client\Contracts\PostDataKey\CreateDriver\DriverProfile;
 
 
 interface WorkStatusInterface

@@ -1,6 +1,6 @@
 <?php
 
-namespace Likemusic\YandexFleetTaxiClient\Contracts;
+namespace YandexFleetTaxi\Client\Contracts;
 
 interface ClientInterface
 {

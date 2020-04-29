@@ -1,5 +1,5 @@
 {
-  "name": "likemusic/yandex-fleet-taxi-client-contracts",
+  "name": "yandex-fleet-taxi/client-contracts",
   "description": "Contracts for client for https://fleet.taxi.yandex.ru/",
   "minimum-stability": "dev",
   "prefer-stable": true,
@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Likemusic\\YandexFleetTaxiClient\\Contracts\\": "src/Contracts"
+      "YandexFleetTaxi\\Client\\Contracts\\": "src/Contracts"
     }
   },
   "require": {

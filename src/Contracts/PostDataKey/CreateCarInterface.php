@@ -1,6 +1,6 @@
 <?php
 
-namespace Likemusic\YandexFleetTaxiClient\Contracts\PostDataKey;
+namespace YandexFleetTaxi\Client\Contracts\PostDataKey;
 
 interface CreateCarInterface
 {

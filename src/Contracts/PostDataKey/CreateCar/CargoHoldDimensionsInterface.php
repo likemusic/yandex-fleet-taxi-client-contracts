@@ -1,6 +1,6 @@
 <?php
 
-namespace Likemusic\YandexFleetTaxiClient\Contracts\PostDataKey\CreateCar;
+namespace YandexFleetTaxi\Client\Contracts\PostDataKey\CreateCar;
 
 interface CargoHoldDimensionsInterface
 {

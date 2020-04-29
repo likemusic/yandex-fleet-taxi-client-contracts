@@ -1,6 +1,6 @@
 <?php
 
-namespace Likemusic\YandexFleetTaxiClient\Contracts\References\DriverStatus;
+namespace YandexFleetTaxi\Client\Contracts\References\DriverStatus;
 
 interface IdInterface
 {

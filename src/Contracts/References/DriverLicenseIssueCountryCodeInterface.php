@@ -1,6 +1,6 @@
 <?php
 
-namespace Likemusic\YandexFleetTaxiClient\Contracts\References;
+namespace YandexFleetTaxi\Client\Contracts\References;
 
 interface DriverLicenseIssueCountryCodeInterface
 {
